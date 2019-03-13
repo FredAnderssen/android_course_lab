@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ToDo-App</string>
+    <string name="select_one_btn">SELECT ONE</string>
+    <string name="create_btn">CREATE</string>
+    <string name="delete_one">DELETE ONE</string>
+
+    <string name="create_todo_btn">CREATE TODO</string>
+
+
+</resources>
